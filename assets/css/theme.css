@@ -1,0 +1,41 @@
+.scrollToTop, .pagination_area ul li a:hover{background-color:#111; color:#fff}
+.scrollToTop:hover, .scrollToTop:focus, .pagination_area ul li a{background-color:#fff; color: #111; border-color:1px solid #111}
+.top_nav li a:hover{color: #111}
+.search_form input[type="submit"]:hover{background-color:#fff}
+
+.slick-prev, .slick-next{background-color:#111}
+.slick-prev:hover, .slick-next:hover{opacity:0.80}
+.bold_line span{background-color:#ff531a}
+.catg1_nav li .post_titile a:hover{color: #ff531a}
+.content_middle_middle:after{background-color: #ff0000}
+.content_middle_middle:before{background-color: #ff0000}
+.single_featured_slide > h2 a:hover{color: #ff0000}
+.catg_titile a:hover{color: #111}
+span.meta_date:hover, span.meta_comment:hover, span.meta_more:hover, span.meta_comment a:hover, span.meta_more a:hover{color: #111}
+.media-heading a:hover{color: #111}
+.nav-tabs{border-bottom:1px solid  #111}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus{color: #111}
+.nav-tabs > li.active > a:hover{color: #111 !important}
+.nav-tabs > li > a:hover{background-color: #111; color:#111 !important}
+.single_bottom_rightbar ul li > a:hover{color: #111}
+.labels_nav li a:focus{background-color: #111}
+.breadcrumb{background-color: #111; border:2px solid  #111}
+.single_page_area > h2{border-left:5px solid  #111}
+.post_commentbox a:hover, .post_commentbox span:hover{color: #111}
+.single_page_content blockquote{border-color:#eee  #111; border-left:5px solid #111}
+.single_page_content ul li:before{background:none repeat scroll 0 0 #111}
+.post_pagination{border-bottom:2px solid #111; border-top:2px solid #111}
+.prev{border-right:2px solid #111}
+.angle_left{background-color:#111}
+.angle_right{background-color:#111}
+.error_page_content h1:after, .error_page_content h1:before{border:2px solid #111}
+.error_page_content p{border-bottom:2px solid #111; border-top:2px solid #111}
+.error_page_content p:after{border-top:1px solid #111}
+.error_page_content p:before{border-top:1px solid #111}
+.error_page_content p > a:hover{color:#111}
+.our_office{border-top:2px solid #111}
+.contact_us{border-top:2px solid #111}
+.contact_form input[type="submit"]:hover{background-color:#111; color:#fff; border-color:#111}
+.our_office:before{border-bottom:1px solid #111}
+.contact_us:before{border-bottom:1px solid #111}
+.similar_post h2 i{color:#fff}

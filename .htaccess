@@ -1,0 +1,17 @@
+RewriteEngine On
+
+ErrorDocument 404 http://localhost/project/Pdo/magexpress/404.php
+
+RewriteRule ^iletisim$ iletisim.php [NC,L]
+RewriteRule ^anasayfa$ index.php [NC,L]
+RewriteRule ^hakkimda$ hakkimda.php [NC,L]
+
+
+
+RewriteRule ^haber-detay/([0-9a-zA-Z-_]+)/([0-9a-zA-Z-_]+)/([0-9]+)$ haber_sayfasi.php?kat=$1&sef=$2&icerik_id=$3 [L,QSA]
+
+
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+
+#RewriteCond $1 !^(css|js|images|inc|lang)
